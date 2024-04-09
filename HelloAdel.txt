@@ -1,1 +1,2 @@
 print("This is not a python script :P !")
+this file has to change to a python one
